@@ -13,8 +13,15 @@
   </properties>
   
   <dependencies>
+
+<dependency>
+ <groupId>np.com.beepeen</groupId>
+  <artifactId>shoppingbackend</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+</dependency>
   
   <!-- Java ee api -->
+
 
 <dependency>
     <groupId>javax</groupId>

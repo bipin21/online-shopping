@@ -11,6 +11,7 @@
    http://www.springframework.org/schema/mvc/spring-mvc.xsd
    ">
    <context:component-scan base-package="np.com.beepeen.onlineshopping.controller" />
+   <context:component-scan base-package="np.com.beepeen.shoppingbackend.daoimpl" />
    
    <bean id="viewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
    <property name="prefix" value="/WEB-INF/views/"/>
