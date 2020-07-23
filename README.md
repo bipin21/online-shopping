@@ -1,1 +1,1 @@
-# online-shopping
+# Basic java online shopping app
